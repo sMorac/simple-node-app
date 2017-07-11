@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sMorac/simple-node-app/issues"
   },
-  "homepage": "https://github.com/sMorac/simple-node-app#readme"
+  "homepage": "https://github.com/sMorac/simple-node-app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
