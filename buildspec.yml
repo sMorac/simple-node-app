@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  install:
+    commands:
+      - echo Installing dependencies...
+      - npm install
+  build:
+    commands:
+      - echo Nothing to build... 
+  post_build:
+    commands:
+      - echo Build completed on `date`
